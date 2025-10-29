@@ -1,6 +1,6 @@
 {
   "name": "pareto-ai-tools",
-  "version": "1.1.1",
+  "version": "0.0.1",
   "description": "AI-safe development tools for VS Code workspaces",
   "main": "index.js",
   "bin": {
